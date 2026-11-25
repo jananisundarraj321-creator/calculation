@@ -1,0 +1,25 @@
+
+body {
+    text-align: center;
+    font-family: Arial;
+    margin-top: 100px;
+    background-color: lightblue;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+button {
+    padding: 12px 20px;
+    margin: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
